@@ -36,7 +36,7 @@ To mitigate sample imbalance, non-oil spill slices were strategically excluded d
 ## Data Format
 
 ### Images
-- **Format**: TIFF (.tif)
+- **Format**: .tif/.tiff
 - **Size**: 256×256 pixels
 - **Channels**: 
   - Sentinel-1: 1 channel (VV)
