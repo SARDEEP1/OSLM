@@ -1,4 +1,4 @@
-# OSLM Dataset: Oil Spill Localization and Mapping Dataset
+# OSLM Dataset
 
 ## Overview
 
