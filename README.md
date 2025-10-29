@@ -8,12 +8,12 @@ You can download the dataset from https://pan.quark.cn/s/080b9e9f256c
 
 ## Dataset Statistics
 
-| Source | Slices | Resolution | Input Features | Purpose |
-|--------|--------|------------|----------------|---------|
-| **Sentinel-1** | 28,984 | 256×256 | VV | Primary training data |
-| **GF-3** | 2,264 | 256×256 | VV & HH | Dual-polarization data |
-| **Simulated CP** | 2,264 | 256×256 | RH & RV | Compact polarimetry |
-| **Total** | **33,512** | 256×256 | - | - |
+| Source | Slices | Resolution | Input Features | 
+|--------|--------|------------|----------------|
+| **Sentinel-1** | 28,984 | 256×256 | VV | 
+| **GF-3** | 2,264 | 256×256 | VV & HH |
+| **Simulated CP** | 2,264 | 256×256 | RH & RV |
+| **Total** | **33,512** | - | - | 
 
 
 ## Key Features
@@ -57,8 +57,8 @@ To mitigate sample imbalance, non-oil spill slices were strategically excluded d
 
 ## Acknowledgments
 
-- Sentinel-1 data courtesy of the European Space Agency (ESA)
-- GF-3 data courtesy of the China National Space Administration (CNSA)
+- Sentinel-1 data courtesy of the European Space Agency
+- GF-3 data courtesy of the ChinaCentre for Resources Satellite Data and Application
 
 ---
 
