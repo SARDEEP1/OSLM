@@ -4,7 +4,7 @@
 
 The OSLM  Dataset is a comprehensive collection of SAR (Synthetic Aperture Radar) imagery designed for oil spill detection and segmentation tasks. The dataset integrates multi-source satellite data from Sentinel-1 and GF-3 missions, providing diverse polarimetric configurations to support robust model training and evaluation.
 In addition, our data set is too large for you to download directly, we provide you with the following download method.
-You can download the dataset from “**coming soon**”
+You can download the dataset from “https://pan.quark.cn/s/98689d0edda9”
 
 ## Dataset Statistics
 
